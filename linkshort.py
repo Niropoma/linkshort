@@ -32,7 +32,7 @@ else:
   print("Wrong user")
   
 
-link = input(" Enter your link")
+link = input(" Enter your link :")
 s = pyshorteners.Shortener()
 provid = s.tinyurl.short(link)
 print(f" Your short link is : {provid}")
