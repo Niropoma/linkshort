@@ -24,6 +24,7 @@ if givenuser == user:
   givenpassword = input("Enter Your password: ")
   if givenpassword == password:
    print(" Wellcome to this tool")
+   print(logo)
    
   else:
     print("incorrect password")
