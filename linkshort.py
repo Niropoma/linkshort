@@ -1,8 +1,8 @@
 import os
 import time
 import pyshorteners
-user = "rejoan"
-password = "1212"
+user = "niropoma"
+password = "r2k"
 logo = '''
  _______    ______   __    __ 
 /       \  /      \ /  |  /  |
